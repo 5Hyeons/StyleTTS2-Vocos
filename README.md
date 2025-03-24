@@ -20,11 +20,11 @@ This project is built upon [StyleTTS2](https://github.com/yl4579/StyleTTS2.git) 
    - Provides a version without PL-BERT model
    - Optimized for languages not supported by multi-lingual PL-BERT model like Korean
    - Minimal performance degradation without PL-BERT
-
+   
 ## Model Download
 
-Pre-trained models can be downloaded from the following Google Drive link:
-[Google Drive Link]
+Pre-trained models can be downloaded from the following Hugging Face repository:
+[https://huggingface.co/5Hyeons/StyleTTS2](https://huggingface.co/5Hyeons/StyleTTS2)
 
 ## Training
 
